@@ -53,14 +53,14 @@ Audio signal processing system built on VHDL, capable of live signal filtering a
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1amSam-dev&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamSam-dev&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## Connect with Me
 
-- *Email: *[your-email-here]  
+- *Email: *[samleo300305@gmail.com]  
 - *LinkedIn*: [www.linkedin.com/in/sam-leo-5971ba35b](https://www.linkedin.com/in/sam-leo-5971ba35b)
 
 ---
