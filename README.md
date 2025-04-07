@@ -60,8 +60,8 @@ Audio signal processing system built on VHDL, capable of live signal filtering a
 
 ## Connect with Me
 
-- *Email: *[samleo300305@gmail.com]  
-- *LinkedIn*: [www.linkedin.com/in/sam-leo-5971ba35b](https://www.linkedin.com/in/sam-leo-5971ba35b)
+- Email: samleo300305@gmail.com  
+- LinkedIn*: [www.linkedin.com/in/sam-leo-5971ba35b](https://www.linkedin.com/in/sam-leo-5971ba35b)
 
 ---
 
