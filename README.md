@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1280x300?text=Sam+GitHub+Banner" alt="Banner Placeholder" />
+  <img src="https://via.placeholder.com/1280x300?text=Sam+GitHub+Banner" alt="Sam's GitHub Banner" />
 </p>
 
 # Sam
@@ -25,16 +25,16 @@ I believe in learning by doing and turning ideas into functional, scalable proto
 
 ## Projects
 
-### [LoRaCare](https://github.com/1amSam-dev/LoRaCare)
+### [LoRaCare](https://github.com/iamSam-dev/LoRaCare)
 A LoRa-based patient alert system that enables medical staff to respond instantly — even when they're far from the patient.
 
-### [Smart Irrigation System](https://github.com/1amSam-dev/Smart-Irrigation)
+### [Smart Irrigation System](https://github.com/iamSam-dev/Smart-Irrigation)
 An IoT-based solution using ESP8266 and Blynk to monitor and automate farm irrigation, reducing water waste.
 
-### [Noise Pollution Monitor](https://github.com/1amSam-dev/NoisePollutionMonitor)
+### [Noise Pollution Monitor](https://github.com/iamSam-dev/NoisePollutionMonitor)
 Monitors ambient noise using KY-038 sensor and OLED display; logs data wirelessly via Wi-Fi for smart urban planning.
 
-### [FPGA Real-Time DSP](https://github.com/1amSam-dev/FPGA-DSP)
+### [FPGA Real-Time DSP](https://github.com/iamSam-dev/FPGA-DSP)
 Audio signal processing system built on VHDL, capable of live signal filtering and analysis.
 
 ---
@@ -60,8 +60,8 @@ Audio signal processing system built on VHDL, capable of live signal filtering a
 
 ## Connect with Me
 
-- Email: samleo300305@gmail.com  
-- LinkedIn*: [www.linkedin.com/in/sam-leo-5971ba35b](https://www.linkedin.com/in/sam-leo-5971ba35b)
+- *Email*: samleo300305@gmail.com  
+- *LinkedIn*: [www.linkedin.com/in/sam-leo-5971ba35b](https://www.linkedin.com/in/sam-leo-5971ba35b)
 
 ---
 
